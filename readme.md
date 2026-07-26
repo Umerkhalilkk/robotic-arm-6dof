@@ -59,11 +59,22 @@ media/
   main_arm.jpeg              Photo of the completed main arm
   mini_hand.jpeg              Photo of the completed master arm
 
+models/
+  main_arm.stl               Interactive 3D model of the main arm
+  mini_arm.stl                Interactive 3D model of the master arm
+
 pcb/
   arm_pcb_print.pdf          PCB layout used for home etching
   pcb_front.jpg               Photo of the built PCB, front
   pcb_back.jpg                Photo of the built PCB, back
 ```
+
+## 3D Models
+
+Both arms can be viewed and rotated directly in the browser using GitHub's built-in 3D viewer — no software download required. Click a link below, then click-drag to rotate and scroll to zoom.
+
+- [Main Arm — main_arm.stl](models/main_arm.stl)
+- [Mini Hand — mini_arm.stl](models/mini_arm.stl)
 
 ## Hardware
 
