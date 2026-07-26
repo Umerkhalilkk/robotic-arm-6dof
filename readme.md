@@ -2,6 +2,12 @@
 
 A robotic arm controlled through a smaller, hand-built master arm. Potentiometers on the master arm sense joint position, and a microcontroller maps those readings to servo positions on the main arm, so moving a joint on the small arm moves the corresponding joint on the large arm in real time.
 
+## Photos
+
+<img src="media/main_arm.jpeg" width="400" alt="Main robotic arm"> <img src="media/mini_hand.jpeg" width="400" alt="Master arm (mini hand)">
+
+*Left: the main 6 DOF robotic arm. Right: the master arm used to control it.*
+
 ## Team
 
 - [Muhammad Aqib Shabbir](https://github.com/maqibshabbir)
@@ -66,12 +72,6 @@ pcb/
   pcb_front.jpg               Photo of the built PCB, front
   pcb_back.jpg                Photo of the built PCB, back
 ```
-
-## Photos
-
-<img src="media/main_arm.jpeg" width="400" alt="Main robotic arm"> <img src="media/mini_hand.jpeg" width="400" alt="Master arm (mini hand)">
-
-*Left: the main 6 DOF robotic arm. Right: the master arm used to control it.*
 
 ## 3D Models
 
