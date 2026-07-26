@@ -2,7 +2,7 @@
 
 A robotic arm controlled through a smaller, hand-built master arm. Potentiometers on the master arm sense joint position, and a microcontroller maps those readings to servo positions on the main arm, so moving a joint on the small arm moves the corresponding joint on the large arm in real time.
 
-Originally built for the Engineering Workshop course, Bahria University Karachi Campus (BS RIS), under the supervision of Zaryab Qazi.
+Originally built for the Engineering Workshop course, under the supervision of Zaryab Qazi.
 
 ## Team
 
